@@ -3,7 +3,7 @@ This project features a 3D model of a 5 Degrees of Freedom (DOF) robotic arm, de
 
 ---
 
-📌 Project Overview
+# 📌 Project Overview
 The robotic arm consists of five movable joints:
 
 - Base Rotation
@@ -18,13 +18,12 @@ The robotic arm consists of five movable joints:
 
 ---
 
-🧰 Tools Used
+# 🧰 Tools Used
 Tinkercad 3D Design Tool.
 
 ---
 
-🧩 Implementation
-The robotic arm was designed and implemented entirely in Tinkercad’s 3D Design environment.
+# 🧩 Implementation
 
 Image 1: 3D model of the robotic arm with joint movement directions highlighted.
 ![pic1](https://github.com/user-attachments/assets/5b6501d8-435e-4ff7-92fb-f0dccb155727)
