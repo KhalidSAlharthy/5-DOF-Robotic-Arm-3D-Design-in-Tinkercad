@@ -26,20 +26,23 @@ Tinkercad 3D Design Tool.
 # 🧩 Implementation
 
 3D model of the robotic arm with joint movement directions highlighted.
-![pic1](https://github.com/user-attachments/assets/5b6501d8-435e-4ff7-92fb-f0dccb155727)
+![Joint 1](https://github.com/user-attachments/assets/874c5488-a20b-431f-a14a-fe20cf0b52fb)
+
 
 Front View: 
 
-![Screenshot 2025-07-03 230755](https://github.com/user-attachments/assets/f60eb295-f0eb-4006-82e0-53fbab1b826b)
+![Screenshot 2025-07-04 141702](https://github.com/user-attachments/assets/5dfc03a5-4eaa-4dec-bee3-795a04122ae1)
+
 
 Back View: 
 
-![Screenshot 2025-07-03 230730](https://github.com/user-attachments/assets/5e134c81-e4d4-49ba-8677-1a8b63e7ee8e)
+![Screenshot 2025-07-04 141622](https://github.com/user-attachments/assets/c9923c67-be2c-4534-81e6-e00c8265c05c)
 
 Left View: 
 
-![Screenshot 2025-07-03 230720](https://github.com/user-attachments/assets/7b90b1e0-2b4d-4dbe-b638-7f5961803116)
+![Screenshot 2025-07-04 141638](https://github.com/user-attachments/assets/0dc5fb63-33c8-49a5-82c4-350fdda8598e)
 
 Right View: 
 
-![Screenshot 2025-07-03 230740](https://github.com/user-attachments/assets/50cb503c-eb4c-40c0-8265-c2b9016f7b04)
+![Screenshot 2025-07-04 141558](https://github.com/user-attachments/assets/b6f1ec50-c6a9-4343-9dec-6db087bba6a3)
+
