@@ -4,7 +4,7 @@ A 3D-designed 5 Degrees of Freedom (DOF) Robotic Arm, designed using Tinkercad 3
 ---
 
 # 📌 Project Overview
-The model includes five independently rotating joints—mimicking the structure of real robotic manipulators—allowing it to perform a range of movements such as lifting, rotating, extending, and gripping.
+The model includes five independently rotating joints mimicking the structure of real robotic manipulators allowing it to perform a range of movements such as lifting, rotating, extending, and gripping.
 
 - Base Rotation
 
