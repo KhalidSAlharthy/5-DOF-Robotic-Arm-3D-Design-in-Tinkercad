@@ -1,7 +1,7 @@
 # 5-DOF-Robotic-Arm-3D-Design-in-Tinkercad
 A 3D-designed 5 Degrees of Freedom (DOF) Robotic Arm, designed using Tinkercad 3D. The arm is ideal for educational purposes, prototyping concepts, and exploring mechanical structure and movement in robotics.
 
----
+
 
 # 📌 Project Overview
 The model includes five independently rotating joints mimicking the structure of real robotic manipulators allowing it to perform a range of movements such as lifting, rotating, extending, and gripping.
@@ -16,12 +16,12 @@ The model includes five independently rotating joints mimicking the structure of
 
 - Gripper (End Effector)
 
----
+
 
 # 🧰 Tools Used
 Tinkercad 3D Design Tool.
 
----
+
 
 # 🧩 Implementation
 
@@ -31,7 +31,7 @@ Tinkercad 3D Design Tool.
 You can view and explore the full 3D model here:
 https://www.tinkercad.com/things/fwfitJ9tikX-5-dof-robot-arm-task1m?sharecode=_Olmn-hvIfiLQoJcCJi1s1zXc0SyD1xYs-Ak0AN4hdI
 
----
+
 
 # 📸 Design Views
 
