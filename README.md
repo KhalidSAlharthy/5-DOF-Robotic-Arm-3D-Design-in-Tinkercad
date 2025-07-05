@@ -28,6 +28,9 @@ Tinkercad 3D Design Tool.
 3D model of the robotic arm with joint movement directions highlighted.
 ![pic](https://github.com/user-attachments/assets/1b6de8f4-2148-4e70-8989-c91a72ef8df6)
 
+You can view and explore the full 3D model here:
+https://www.tinkercad.com/things/fwfitJ9tikX-5-dof-robot-arm-task1m?sharecode=_Olmn-hvIfiLQoJcCJi1s1zXc0SyD1xYs-Ak0AN4hdI
+
 ---
 
 # 📸 Design Views
